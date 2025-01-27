@@ -1,5 +1,5 @@
 .DS_Store
-cypress.env.json
+cypress.config.js
 cypress/downloads/
 cypress/screenshots/
 cypress/videos/
